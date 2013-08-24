@@ -1,0 +1,14 @@
+
+
+-- lets try to use this library http://stackoverflow.com/questions/2081586/web-scraping-with-python
+
+-- install BeautifulSoup lib to your python
+
+-- read the webpage
+
+--  extract info
+
+-- modify 
+
+-- party !!
+
